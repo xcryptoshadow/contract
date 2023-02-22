@@ -1,6 +1,10 @@
 {
-  "name": "FVM-Hardhat-Kit",
+  "name": "wesigvault-mantle-contracts",
   "version": "1.0.0",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/weSigVault/contract"
+  },
   "description": "",
   "scripts": {
     "compile": "hardhat compile",
